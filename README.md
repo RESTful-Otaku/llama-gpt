@@ -10,22 +10,6 @@
     <br/>
     <strong>New: Support for Code Llama models and Nvidia GPUs.</strong>
     <br />
-    <br />
-    <a href="https://umbrel.com"><strong>umbrel.com (we're hiring) »</strong></a>
-    <br />
-    <br />
-    <a href="https://twitter.com/umbrel">
-      <img src="https://img.shields.io/twitter/follow/umbrel?style=social" />
-    </a>
-    <a href="https://t.me/getumbrel">
-      <img src="https://img.shields.io/badge/community-chat-%235351FB">
-    </a>
-    <a href="https://reddit.com/r/getumbrel">
-      <img src="https://img.shields.io/reddit/subreddit-subscribers/getumbrel?style=social">
-    </a>
-    <a href="https://community.umbrel.com">
-      <img src="https://img.shields.io/badge/community-forum-%235351FB">
-    </a>
   </p>
 </p>
 <p align="center">
@@ -45,8 +29,7 @@
    - [Kubernetes](#install-llamagpt-with-kubernetes)
 4. [OpenAI-compatible API](#openai-compatible-api)
 5. [Benchmarks](#benchmarks)
-6. [Roadmap and contributing](#roadmap-and-contributing)
-7. [Acknowledgements](#acknowledgements)
+6. [Acknowledgements](#acknowledgements)
 
 ## Demo
 
